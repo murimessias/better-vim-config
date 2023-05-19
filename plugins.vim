@@ -1,5 +1,0 @@
-Plug 'lewis6991/gitsigns.nvim'
-Plug 'rescript-lang/vim-rescript'
-Plug 'rebelot/kanagawa.nvim'
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-pack/nvim-spectre'
